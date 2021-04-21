@@ -3,6 +3,9 @@ This is a Game Project of term paper in the discipline "Technologies of computer
 
 Release status: closed.
 
-## Compiled versions of the project for Windows and Makos are available at the links below
+
+## Compiled versions
+
+Compiled versions of the project for macOS and Windows are available at the links below:
 * [macOS](https://drive.google.com/drive/folders/1a_5iECn56KlTO95it6V_9HBl4v-5VTu6)
 * [Windows (x64)](https://drive.google.com/drive/folders/1lUaNl9JiUB5dpVqiPiRb8N8HHr7hoyAd)
